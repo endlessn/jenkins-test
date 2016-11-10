@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NewSampleUnitTestApp.iml" filepath="$PROJECT_DIR$/NewSampleUnitTestApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jenkinsTest.iml" filepath="$PROJECT_DIR$/jenkinsTest.iml" />
     </modules>
   </component>
 </project>
